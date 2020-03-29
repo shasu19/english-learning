@@ -1,0 +1,41 @@
+
+    #======= words collected from series to learn 'the expense'
+
+    fraternize: 
+        meaning: भाईचारा करना
+        use: I would fraternize with this navigator in couple of days.
+
+    spur:
+        meaning: inspiration
+        synonyms: stimulus, impetus, infusion
+
+
+    discreet:
+        meaning: विचारशील
+        
+        
+    freighter:
+        meaning: लादनेवाला जहाज़
+    
+    vicinity:
+        meaning: आस-पास
+
+    obligate:
+        meaning: helpless
+    obligated:
+        meaning: बाध्य
+
+    bait:
+        meaning: प्रलोभन
+        synonyms: feed seduction
+        use: it was pirate bait.
+        
+    stranded out:
+        meaning: फंसे हुए
+        use: Whole world is  stranded out because of Covid19.
+        
+    radical faction:
+        meaning: कट्टरपंथी गुट
+        use: Some radical faction still active in some cities to spread fake news.
+        
+    #==========================================    
