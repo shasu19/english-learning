@@ -1,0 +1,34 @@
+Consign - सुपुर्द Consignment
+tangle - उलझन
+embellish - संवारना
+substantive - original mool
+dwindle - सूखना , क्षीण होना 
+Sword company hurried to release C debugger in so hurry that it messed up.
+slack - not strong people. We call slacker.
+plummets - में गिरावट mein giraavat
+Brooks's law. If we add more man power to slow project. This will make
+more slow the productivity.
+emulate- apply the same thing or follow the same pattern
+If we see some one's bad code or good code. We emulate the same as we see around.
+
+fluke - संयोग से पड़नेवाली चोट, आकस्मिक लाभ
+May be it was fluke.
+
+faction - गुट grop
+rot - सड़ांध smell
+fester - string
+festering pile - rot
+
+elegant - shisht, good looking
+stench - bad smell
+rigid - kathor
+emit - फेंकना,  बाहर भेजना
+fraught - भरा हुआ service incident code fraught with errors and code smell.
+impede - बाधा
+You have been impeded by bad code.
+
+impeccable - error free, निर्दोष
+
+
+
+
